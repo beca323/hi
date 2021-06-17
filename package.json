@@ -1,0 +1,21 @@
+{
+  "name": "hi",
+  "version": "1.0.0",
+  "description": "## 明天放假",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pushgit": "git add . && git commit -m"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beca323/hi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beca323/hi/issues"
+  },
+  "homepage": "https://github.com/beca323/hi#readme"
+}
